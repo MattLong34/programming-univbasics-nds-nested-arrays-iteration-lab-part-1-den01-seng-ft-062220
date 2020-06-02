@@ -9,6 +9,12 @@ end
 
 
 
+spice_rack = [
+  ["Posh", "Scary", "Sporty"],
+  ["Paprika", "Fajita Mix", "Coriander"],
+  ["Parsley", "Sage", "Rosemary"]
+]
+
 row_index = 0
 while row_index < spice_rack.count do
   element_index = 0
